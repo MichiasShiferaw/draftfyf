@@ -16,10 +16,10 @@ function Home() {
         <Launch/>
         <Pop/>
 
-        <Newsletter/>
-        <Portiontwo/>
+        {/* <Newsletter/> */}
+        {/* <Portiontwo/> */}
         
-        <Portion/>
+        {/* <Portion/> */}
         {/* <Sidebar/> */}
         {/* <Modal1/>
         <Modal2/> */}

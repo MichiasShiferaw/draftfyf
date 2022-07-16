@@ -58,7 +58,7 @@ function Footer () {
           <p className="text-gray-300 small text-left mb-0">© 2022 FaceYourFood | All rights reserved</p> 
           
         </div>
-        <div className="col-md-5">
+        {/* <div className="col-md-5">
           <div className="social text-left text-md-right my-4 my-md-0">
             <Link to="/profile">
 <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" fill="currentColor" className="bi bi-facebook" viewBox="0 0 16 16">
@@ -82,7 +82,7 @@ function Footer () {
             </Link>
           </div>
           
-        </div>  
+        </div>   */}
         <div className="col-md-1">
           <a href="#/">
                 <i className="bi bi-arrow-up-circle h1"></i>

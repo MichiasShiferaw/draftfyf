@@ -298,15 +298,15 @@ export default function Recipe() {
           </div>
         </div>
       </div>
-      <div className="my-0 my-md-5 py-1 py-md-5">
+      {/* <div className="my-0 my-md-5 py-1 py-md-5">
         <h2 className="mb-3">Already made this?</h2>
         <a href="#0" className="btn btn-outline-dark px-5">Share your feedback</a>
         <br/>
         <br/>
         <hr className="lh-lg"/>
-      </div>
+      </div> */}
 
-          <section className="bg-light">
+          {/* <section className="bg-light">
         <div className="container">
             <div className="text-center">
                 <h2>Stay in the Loop</h2>
@@ -321,7 +321,7 @@ export default function Recipe() {
                 </div>
             </div>
         </div>
-    </section>
+    </section> */}
       <Reviews/>
     </section>
         <Recommended/>

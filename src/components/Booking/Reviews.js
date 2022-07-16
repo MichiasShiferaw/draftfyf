@@ -65,7 +65,7 @@ Jane Doe
     <button className="btn btn-outline-danger"><i className="bi bi-hand-thumbs-down-fill"></i></button><span className="mx-2 me-4">15</span>
   </div>
 </div>
-        <div href="#0" className="btn btn-outline-secondary d-grid col-6 mx-auto my-2 py-1 py-md-3">Load 10 more Reviews</div>
+        {/* <div href="#0" className="btn btn-outline-secondary d-grid col-6 mx-auto my-2 py-1 py-md-3">Load 10 more Reviews</div> */}
       </div>
       
       <div className="write-comment">

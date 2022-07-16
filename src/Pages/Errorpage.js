@@ -3,7 +3,8 @@ import Settings from '../components/Settings/setting'
 
 function Errorpage() {
   return (
-    <div>ERROR! PAGE NOT FOUND
+    <div>ERROR! PAGE NOT FOUND,
+      More will be here soon
       {/* <Settings/> */}
     </div>
   )
